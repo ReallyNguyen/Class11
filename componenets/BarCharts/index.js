@@ -37,7 +37,7 @@ export default function BarChart() {
                     label: 'Sales $',
                     data: [13253, 15435, 19283, 14163, 24124, 16924, 25253],
                     borderColor: 'rgb(20,20,20)',
-                    backgroundColor: 'rgba(0,0,0,0.4)'
+                    backgroundColor: 'rgba(255,20,0,0.4)'
                 }
             ]
         })
